@@ -1,0 +1,24 @@
+{
+"OrderID":11231,
+"Address":"Mariano Acosta 1169",
+"Status":"Enviado",
+"Articles":[
+        {
+"Name":"Biblia Platense",
+"Quantity":100,
+"Dangerous":true
+        }
+        {
+        "Name":"El Señor de los Anillos: La comunidad del anillo",
+        "Quantity":13,
+        "Dangerous":false
+        }
+        {
+            "Name":"Confesiones",
+            "Quantity":20,
+            "Dangerous":false
+        }
+]
+}
+
+

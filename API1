@@ -1,0 +1,43 @@
+Articles:[Name:"Zapato"
+Quantity:3
+Dangerous=false
+
+Name:"Zapato"
+Quantity:3
+Dangerous=false
+
+Name:"Zapato"
+Quantity:3
+Dangerous=false
+
+]
+
+"Compras":
+{
+    "OrderID":1,
+    "Address":"Direccion",
+    "Status":"Tipo de Status",
+    "Articles":[
+        {
+            "Items":"Tipos",
+            "Name":"Nombre",
+            "Quantity":1,
+            "Dangerous":true,
+        }
+    ]
+}
+{
+    "OrderID":2,
+    "Address":"Direccion",
+    "Status":"Tipo de Status",
+    "Articles":[
+        {"Items":"Tipos",
+        "Name":"Nombre",
+        "Quantity":13,
+        "Dangerous":false,
+        }
+    ]
+
+}
+
+
